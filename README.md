@@ -10,5 +10,12 @@ Ever gotten a bunch of monkey emojis like this one 🙈 in an IM like WhatsApp a
 * You can also use this encoding to design stylish and very individualistic thumbnails for your very own beauty-themed YouTube-channel.
 * Great for breaking your terminal emulator's and/or text editor's poor Unicode support.
 
+# Building
+The rust compiler and cargo are required.
+For a release build use
+    cargo build --release
+For a debug build use
+    cargo build
+
 # Contributing
 🙊🐵🐵🙈🙊🙊🙉🙈🙉🙊🙉🙈🙊🙈🙉🙈🙉🐵🙊🙈🙈🐵🙉🙈🐵🙈🙊🙈🙊🐵🙊🙈🙉🙊🙉🐵🐵🐵🙉🐵🙈🙉🙈🙈🙊🙊🙉🙈🙈🙈🙊🙈🐵🐵🙉🐵🙈🐵🙉🙈🙉🐵🙊🙈🙈🙈🙉🙈🐵🐵🙉🐵🙈🙈🙊🙈🙊🐵🙊🙈🙈🙉🙉🙈🙉🙊🙉🙈🙊🙈🙉🙈🐵🐵🙉🐵🙈🙊🙉🙈🙊🙊🙉🙈🙉🙊🙉🙈🙊🙉🙉🙈🙈🙈🙉🙈🙈🙉🙊🙈🙊🐵🙉🙈🙊🙊🙉🙈🐵🙈🙉🙈🙈🙈🙉🙈🐵🐵🙉🐵🙉🙊🙉🙈🙊🙊🙉🙈🙊🙈🙊🙈🙈🐵🙉🐵
